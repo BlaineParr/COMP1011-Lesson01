@@ -3,6 +3,7 @@ public class Person
 		private float height;
 		private float weight;
 		private String name;
+		private int IQ;
 		
 		//Getters and Setters
 		public float getHeight() {
