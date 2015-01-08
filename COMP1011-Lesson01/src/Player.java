@@ -11,10 +11,10 @@ public class Player
 		
 		System.out.println("Hello World! It's " + year + "!");
 
-		tom = new Person("Tom", 225.3f);
+		tom = new Person("Tom", 225.3f, 6.0f);
 		tom.walks();
 		
-		mike = new Person("Mike", 180.9f);
+		mike = new Person("Mike", 180.9f, 6.5f);
 		mike.walks();
 	}
 	
